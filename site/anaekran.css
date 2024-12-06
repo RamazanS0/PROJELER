@@ -1,0 +1,99 @@
+h1{
+    text-align: center;
+    font-size:40px;
+    box-shadow: 0px 10px 20px 0px rgba(37, 1, 1, 0.836);
+    
+}
+body{
+    padding: 10px;
+margin: 20px;
+background-color: antiquewhite;
+}
+
+ul{
+    padding: 0px;
+    margin: 0px;
+    list-style: none;
+}
+ul#hepsi li {
+    display: flex;
+    float: right;
+    position: relative;
+    width: 170px;
+}
+
+
+ul#hepsi li ul{
+display: none;
+position: absolute;
+left: 0;
+top: 40px;
+
+}
+
+ul li a{
+    display: block;
+    width: 150px;
+    height: 40px;
+    line-height: 40px;
+    background-color: rgb(22, 0, 0);
+    text-align: center;
+    color: aliceblue;
+    text-decoration: none;
+}
+
+ul li a:hover{
+    background-color: rgba(70, 2, 2, 0.233);
+}
+ul#hepsi li:hover ul{
+    display: block;
+}
+.logo{
+    position: absolute;
+    top: 10px;
+    
+    margin-top:20px;
+}
+.yan{
+    font-size: 25px;
+        display: flex;
+        line-height: 1.8;
+        font-family: sans-serif;
+}
+h2,h3,h4,h5{
+    font-size: 30px;
+    font-family: sans-serif;
+    box-shadow: 0px 10px 20px 0px rgba(37, 1, 1, 0.836);
+
+}
+.yan2{
+
+    font-size: 25px;
+        display:flex;
+        line-height: 1.8;
+        font-family: sans-serif;
+}
+.yorum{
+    
+font-size: 22px;
+line-height: 1.7;
+font-family: sans-serif;
+}
+.son{
+
+    font-size: 22px;
+    line-height: 1.9;
+    font-family: sans-serif;
+}
+.geçiş{
+    font-size: 40px;
+    color: rgb(3, 3, 3);
+}
+footer{
+  background-color: rgb(8, 8, 8);
+  color: aliceblue;
+    font-size: 20px;
+    
+    
+
+}

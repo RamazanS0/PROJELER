@@ -1,0 +1,134 @@
+body{
+    padding: 10px;
+margin: 20px;
+background-color: antiquewhite;
+
+}
+h1{
+
+
+    font-size: 50PX;
+    text-align:    center;
+    color: rgb(0, 0, 0);
+    text-shadow: 0px 10px 20px  rgba(26, 1, 1, 0.836);
+}
+ul{
+    padding: 0px;
+    margin: 0px;
+    list-style: none;
+}
+ul#hepsi li {
+    display: flex;
+    float: right;
+    position: relative;
+    width: 170px;
+}
+
+
+ul#hepsi li ul{
+display: none;
+position: absolute;
+left: 0;
+top: 40px;
+
+}
+
+ul li a{
+    display: block;
+    width: 150px;
+    height: 40px;
+    line-height: 40px;
+    background-color: rgb(22, 0, 0);
+    text-align: center;
+    color: aliceblue;
+    text-decoration: none;
+}
+
+ul li a:hover{
+    background-color: rgba(70, 2, 2, 0.233);
+}
+ul#hepsi li:hover ul{
+    display: block;
+}
+
+
+.iphone13{
+    position: absolute;
+margin-top:20px;
+font-size: 25px;
+top: 300px;
+
+}
+.samsung{
+    position:absolute;
+    top: 300px;
+        margin-top:20px;
+        font-size: 25px; 
+    right: 1250px;
+
+    width: 300px;
+   
+}
+.iphone12{
+    position: absolute;
+    top: 300px;
+    right: 1000px;
+    margin-top:20px;
+    font-size: 25px;
+   
+    
+}
+.iphone11{
+
+    position: absolute;
+    top: 300px;
+    right:500px;
+    margin-top:20px;
+    font-size: 25px;
+    
+}
+.GEÇİŞ {
+
+    font-size: 40px;
+    color: rgb(3, 3, 3);
+    text-shadow: 0px 10px 20px  rgba(26, 1, 1, 0.836);
+    box-shadow: 0px 10px 20px 0px rgba(37, 1, 1, 0.836);
+}
+.oppo{
+
+    position: absolute;
+    top: 300px;
+    right:300px;
+    margin-top:20px;
+    font-size: 25px;
+    
+    height: 300px;
+}
+
+button{
+    background-color: #000000;
+    color: #ffffff;
+    text-decoration: none;
+    text-transform: uppercase;
+    border-radius: 100px;
+    display: inline-block;
+    font-weight: 500;
+    padding: 10px 20px;
+  font-size: 14px;
+
+}
+
+button:hover{
+background-color: #ffffff;
+color: #000000;
+}
+button:active{
+color: #000000;
+    background-color: #ffffff;
+}
+h2{
+    font-size: 40PX;
+    
+    color: rgb(0, 0, 0);
+    text-shadow: 0px 10px 20px  rgba(26, 1, 1, 0.836);
+}

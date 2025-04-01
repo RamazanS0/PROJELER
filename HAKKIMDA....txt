@@ -1,0 +1,41 @@
+# 💻 Ramazan Sönmez | Bilgisayar Programcılığı Öğrencisi | Geleceğin Yazılım Geliştiricisi  
+
+Merhaba! Ben **Ramazan Sönmez**, Okan Üniversitesi **Bilgisayar Programcılığı** bölümü 2. sınıf öğrencisiyim.  
+Yazılım dünyasına olan tutkum ve merakım sayesinde her geçen gün kendimi geliştirmeye, yeni teknolojiler öğrenmeye ve projeler üretmeye devam ediyorum.  
+Kod yazmak benim için sadece bir iş değil, aynı zamanda bir sanat ve problem çözme süreci.  
+
+## 🚀 Teknik Becerilerim  
+
+✅ **Programlama Dilleri:** Java | Python | C# | C++ | SQL | Arduino  
+✅ **Veri Tabanı Yönetimi:** SQL ile veri modelleme, sorgu optimizasyonu ve veritabanı yönetimi  
+✅ **Nesne Yönelimli Programlama (OOP)** ve **Algoritma Geliştirme**  
+✅ **Sensör ve Mikrodenetleyiciler ile Projeler** (Arduino tabanlı akıllı sistemler)  
+✅ **Masaüstü, Web ve Oyun Geliştirme**  
+
+## 🎯 Gerçekleştirdiğim ve Üzerinde Çalıştığım Projeler  
+
+🔹 **Arduino ile Akıllı Sistemler** – Sensörler ve mikrodenetleyiciler kullanarak IoT tabanlı projeler geliştirdim.  
+🔹 **Java & Python ile Otomasyon Yazılımları** – Veri işleme ve süreç yönetimi üzerine yazılımlar oluşturdum.  
+🔹 **C# & C++ ile Oyun ve Uygulama Geliştirme** – Küçük ölçekli oyunlar ve masaüstü uygulamaları tasarladım.  
+🔹 **SQL ile Veri Yönetimi ve Raporlama** – Büyük veri kümeleri ile SQL kullanarak verimli sorgular yazdım ve veritabanı tasarladım.  
+🔹 **Full-Stack Web Uygulamaları** – Backend & frontend entegrasyonları üzerine projeler geliştiriyorum.  
+
+## 💡 Kendimi Sürekli Geliştirmeye Çalışıyorum!  
+
+Yazılım dünyasında başarılı bir kariyer inşa edebilmek için sürekli yeni teknolojiler öğrenmeye ve kendimi geliştirmeye odaklanıyorum.  
+Yeni programlama dillerini, yapay zeka, veri bilimi ve yazılım mimarisi gibi konuları öğrenmeye büyük ilgi duyuyorum.  
+Teorik bilgiyi pratiğe dökmek için projeler geliştiriyor, açık kaynak topluluklarına katkı sağlıyor ve kendimi her gün daha ileriye taşımak için çaba gösteriyorum.  
+
+## 📊 GitHub İstatistiklerim  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RamazanS0&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RamazanS0&layout=compact&theme=radical)  
+
+## 📩 İletişim & İş Birliği  
+
+📂 **Projelerim:** [GitHub Projelerim](https://github.com/RamazanS0/PROJELER)  
+📧 **E-posta:** [ramsonmez@stu.okan.edu.tr](mailto:ramsonmez@stu.okan.edu.tr)  
+
+---
+
+💬 Bana ulaşmaktan çekinme! Yeni projeler, iş fırsatları ve iş birlikleri için iletişime geçebilirsin. 🚀  
